@@ -1,1 +1,0 @@
-this tells about python strings
