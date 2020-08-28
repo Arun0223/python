@@ -5,4 +5,7 @@ we have pyhon string methods also
 
 thaks
 
-str() is string function
+
+str() is string functio
+hi to new people
+
