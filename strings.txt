@@ -1,2 +1,7 @@
 this tells about python strings
 we have pyhon string methods also
+
+
+
+thaks
+
